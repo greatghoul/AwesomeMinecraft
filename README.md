@@ -4,7 +4,15 @@ Awesome Minecraft
 非常痴迷于 MineCraft (我的世界) 这款游戏，而网上的相关资源又比较分散，
 于是开启这个项目来整理 MineCraft 相关的资料，以供自己和大家学习。
 
-## 新手教程
+## 教程
+
+### 因为制宜
+
+根据地势进行建造是一种高超的艺术
+
+- [视频] [How to make a Minecraft RAVINE Town!](https://www.youtube.com/watch?v=FqDaOoBehKU) - 改造一个大峡谷
+
+### 新手教程
 
 - [视频] [我的世界新手向教程](http://www.youku.com/playlist_show/id_21887282.html?page=1&mode=detail&ascending=1)
 - [5 Easy Steps To Improve Your Minecraft House](https://www.youtube.com/watch?v=TRVIFdGT1eY)
